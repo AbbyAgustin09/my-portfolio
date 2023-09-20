@@ -1,0 +1,64 @@
+.class0 {
+    background-image: url('totoro.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.class1 {
+    background-color: #004225;
+    text-align: center;
+    color: white;
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.class2 {
+    background-color: #004225;
+    text-align: left;
+    font-size: 150%;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    height: 100%;
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+.class3 {
+    background-image: url('totoro1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    text-align: center;
+    font-size: 250%;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    height: 100%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+.button {
+    background-color: #2196F3;
+    border: none;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 180px 0px;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #2196F3;
+    border: none;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0px 0px;
+    cursor: pointer;
+}
